@@ -23,5 +23,9 @@
 			"Name": "CommonUI",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
